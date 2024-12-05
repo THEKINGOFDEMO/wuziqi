@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wuziqi/static/css/main.a9811cff.css",
+    "main.js": "/wuziqi/static/js/main.6950eab9.js",
+    "static/js/453.bebb68e4.chunk.js": "/wuziqi/static/js/453.bebb68e4.chunk.js",
+    "index.html": "/wuziqi/index.html",
+    "main.a9811cff.css.map": "/wuziqi/static/css/main.a9811cff.css.map",
+    "main.6950eab9.js.map": "/wuziqi/static/js/main.6950eab9.js.map",
+    "453.bebb68e4.chunk.js.map": "/wuziqi/static/js/453.bebb68e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9811cff.css",
+    "static/js/main.6950eab9.js"
+  ]
+}
